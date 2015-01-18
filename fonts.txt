@@ -1,0 +1,8 @@
+Aux fonts in:
+http://examples.javacodegeeks.com/android/core/socket-core/android-socket-example/
+http://android-er.blogspot.com.br/2011/01/simple-communication-using.html
+
+
+
+Develop java desktop app using devcom.exe to enable and disable
+http://support.microsoft.com/kb/311272
